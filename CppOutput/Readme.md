@@ -1,0 +1,2 @@
+# In C++, "output" typically refers to the data sent from a program to the standard output stream (usually the console or terminal). This is commonly achieved using the cout object from the iostream library
+# (//) is the comment 
